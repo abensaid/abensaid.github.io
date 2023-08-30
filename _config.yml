@@ -56,25 +56,32 @@ about_content: | # this will include new lines to allow paragraphs
  at undergraduate level. I am looking for a challenging and dynamic role in academia where I can utilize my skills and continue to grow.
 
 content:
-  - title: Projects # Title for the section
+  - title: Resear Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Speculating Student Performance and Satisfaction in Online Learning During a Pandemic
+        #link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        #additional_links:
+          #- title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+          #  url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          The objective is to develop a data-driven approach to predict student outcome
+          (fail/pass) in online learning. In addition, this proposal aims at investigating factors that affect
+          student satisfaction given the particularity of the learning setting. The addressed challenges
+          are of paramount importance for an educational-minded country like Qatar. Indeed, since the
+          outbreak of COVID-19, Qatar University and several other educational institutions in Qatar
+          have opted for online learning to ensure the continuation of the education process. Hence,
+          the research questions this research proposal raises, add significant value to the educational
+          system that Qatar aims at equipping the citizens with to achieve their aspirations and to meet
+          the needs of Qatar’s society.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
