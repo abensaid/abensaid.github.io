@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Ahmed Bensaid
 title: Senior Data Analyst
-email: brett.h@email.co.uk
+email: a_bensaid@hotmail.com
 website: www.github.com/abensaid
 
 # Dark Mode (true/false/never)
@@ -28,13 +28,13 @@ linkedin_username: abensaid
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
 orcid_username: 0000-0002-7760-8132
-google_scholar_id: L96iAzEAAAAJ
+#google_scholar_id: L96iAzEAAAAJ
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: Google Scholar
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://scholar.google.com/citations?user=L96iAzEAAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
