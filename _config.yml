@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
+name: Ahmed Bensaid
+title: Senior Data Analyst
 email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+website: www.github.com/abensaid
 
 # Dark Mode (true/false/never)
 darkmode: false
