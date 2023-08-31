@@ -67,7 +67,33 @@ content:
         title: "COVID-19 outbreak prediction and assessment of prevention policies: a data science approach"
         description: 
           In this project, we leveraged data science to deeply understand the COVID-19 outbreak. 
-          Analyzing factors like national lockdowns, school closures, and social distancing, we aim to train a deep learning model using daily case numbers to predict future cases globally, regionally, and nationally.      
+          Analyzing factors like national lockdowns, school closures, and social distancing, we aim to train a deep learning model using daily case numbers to predict future cases globally, regionally, and nationally.   
+      - layout: top-middle
+        title: "Arabic Troll account: Exploratory data Analysis"
+        description: 
+          We analyzed a new dataset from Twitter containing over 98 million tweets from 5,000+ troll accounts. 
+          Using big data tools like Dask and Apache Spark, we explored the behaviors, followers, followings, and strategies of these troll accounts on Twitter.
+      - layout: top-middle
+        title: Cybersecurity for Industrial Control System
+        description:
+          Cyberwarfare and cybercrime are increasingly targeting ICSs due to their critical role in national security. 
+          This project aims to create an early intrusion detection and mitigation solution for ICSs using big data analytics and machine learning. 
+          We specifically study a Water Treatment Facility, examining ICS data at network and physical levels.
+      - layout: top-middle
+        title: Spatio-temporal composition of Sensor crowdsourced services
+        description: 
+          We developed a platform for individuals to share their WiFi during the FIFA World Cup 2022, enhancing internet coverage. 
+          Using time series analysis, Gramian Angular Field, and a ResNet model in Tensorflow-Keras, we predicted service availability by location and time. 
+          Additionally, we detected convoys from commuter trajectories using cluster analysis.
+      - layout: top-middle
+        title: "Analysis of Stock market of emerging countries: Qatar stock as a case study"
+        description: 
+          We analyzed the stock market of emerging countries, focusing on Qatar. Using advanced deep learning, we explored how company indexes in sectors like Banking, Insurance, and Oil & Gas react to global market indicators such as the S&P, Nikkei, and oil prices.     
+      - layout: top-middle
+        title: "QHCN: Towards Reliable and Efficient IoT mHealth System with Multimodal Processing and Communications for Effective Remote Patient Diagnosis"
+        description: 
+          We created a Mobile HealthCare Network platform to efficiently collect vital signs (e.g., EEG, ECG) from devices and send them to a remote server. 
+          We employed a multimodal stacked autoencoder in Tensorflow-Keras for data compression across multiple modalities.  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
