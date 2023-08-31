@@ -49,39 +49,24 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/abensaid.png
 about_content: | # this will include new lines to allow paragraphs
- As a computer scientist with expertise in artificial intelligence, data analytics, I have a strong foundation in statistical methods, machine learning and data analytics. 
- I am skilled in conducting rigorous research to uncover insights and drive decision-making. My expertise lies in using data to answer complex questions and develop new theories.
- I have a proven track record in teaching and success in publishing research findings in academic journals and presenting at conferences along with
- securing research funds. I am proficient in a variety of programming languages, machine learning tools, and have experience working with large, complex datasets. I also have experience in teaching
- at undergraduate level. I am looking for a challenging and dynamic role in academia where I can utilize my skills and continue to grow.
-
+ As a computer scientist specializing in artificial intelligence and data analytics, I possess deep knowledge in statistical methods and machine learning. 
+ I excel at rigorous research, deriving insights for decision-making, and formulating novel theories. 
+ With a proven record in academic publishing, presenting at conferences, and securing research funds, I am adept at multiple programming languages and handling complex datasets. 
+ Having taught at the undergraduate level, I seek a dynamic academic role where I can further apply and expand my expertise.
 content:
-  - title: Resear Projects # Title for the section
+  - title: Research Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: Speculating Student Performance and Satisfaction in Online Learning During a Pandemic
-        #link: github.com/sproogen
-        # link_text: Project Website
-        #additional_links:
-          #- title:  sproogen/modern-resume-theme
-          #  icon: fab fa-github
-          #  url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        #quote: >
-        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          The objective is to develop a data-driven approach to predict student outcome
-          (fail/pass) in online learning. In addition, this proposal aims at investigating factors that affect
-          student satisfaction given the particularity of the learning setting. The addressed challenges
-          are of paramount importance for an educational-minded country like Qatar. Indeed, since the
-          outbreak of COVID-19, Qatar University and several other educational institutions in Qatar
-          have opted for online learning to ensure the continuation of the education process. Hence,
-          the research questions this research proposal raises, add significant value to the educational
-          system that Qatar aims at equipping the citizens with to achieve their aspirations and to meet
-          the needs of Qatar’s society.
+          The goal is to devise a data-driven method to predict student outcomes (fail/pass) in online learning and explore factors influencing student satisfaction in this context. 
+          Given Qatar's emphasis on education and the shift to online learning during the COVID-19 pandemic by institutions like Qatar University, this research is crucial. 
+          It addresses vital questions, enhancing Qatar's educational system to fulfill societal needs and student aspirations.
+        title: COVID-19 outbreak prediction and assessment of prevention policies: a data science approach
+        description:
+          In this project, we leveraged data science to deeply understand the COVID-19 outbreak. 
+          Analyzing factors like national lockdowns, school closures, and social distancing, we aim to train a deep learning model using daily case numbers to predict future cases globally, regionally, and nationally.         
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
