@@ -94,6 +94,12 @@ content:
         description: 
           We created a Mobile HealthCare Network platform to efficiently collect vital signs (e.g., EEG, ECG) from devices and send them to a remote server. 
           We employed a multimodal stacked autoencoder in Tensorflow-Keras for data compression across multiple modalities.  
+      - layout: top-middle
+        title: "Advances in biometrics via narrowband multispectral imaging"
+        description:
+          We developed a face recognition system using narrowband multispectral images. 
+          The project involved enhancing sensory data by denoising and segmenting these images. 
+          We utilized various denoising methods tailored for spectral data in MATLAB and performed multispectral image segmentation using cluster analysis.        
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -122,11 +128,10 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
+  - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      1: "LIME: Long-Term Forecasting Model for Desalination Membrane Fouling to Estimate the Remaining Useful Life of Membrane, S. Eltanbouly, A. Erradi, A. Tantawy, A. Ben Said, K. Shaban, H. Qiblawey, International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, 3-14, 2023"
       - Gaming
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
