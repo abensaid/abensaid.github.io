@@ -131,11 +131,11 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      1: "LIME: Long-Term Forecasting Model for Desalination Membrane Fouling to Estimate the Remaining Useful Life of Membrane, S. Eltanbouly, A. Erradi, A. Tantawy, A. Ben Said, K. Shaban, H. Qiblawey, International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, 3-14, 2023"
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
+      1- "LIME: Long-Term Forecasting Model for Desalination Membrane Fouling to Estimate the Remaining Useful Life of Membrane, S. Eltanbouly, A. Erradi, A. Tantawy, A. Ben Said, K. Shaban, H. Qiblawey, International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, 3-14, 2023"
+      2: "Performance prediction in online academic course: a deep learning approach with time series imaging, A. Ben Said, A. G Abdelsalam, K. Hazaa, **Multimedia Tools and Applications (IF 3.6)**, 2023 (Minor Revision)"
+      3: "Machine learning for prediction of the uniaxial compressive strength within carbonate rocks, M. Abdelhedi, R. Jabbar, A. Ben Said, N. Fetais, C. Abbes, Earth Science Informatics (IF 2.8), 16, pp. 1473–1487, 2023"
+      4: "Optimal Resource Management for Hierarchical Federated Learning over HetNets with Wireless Energy Transfer, R. Hamdi, A. Ben Said, E. Baccour, A. Erbad, A. Mohamed, M. Hamdi, M Guizani, IEEE Internet of Things Journal (IF 10.6), 2023"
+      5: "Determinants of poor academic performance among undergraduate students—A systematic literature review, R. A. Naji Al-Tameemi, C. Johnson, R. Gitay, A. G Abdelsalam, K. Hazaa, A. Ben Said, M. H. Romanowski, International Journal of Educational Research Open, pp 100232, 2023"
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
