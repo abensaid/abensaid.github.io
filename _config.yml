@@ -63,7 +63,6 @@ content:
           The goal is to devise a data-driven method to predict student outcomes (fail/pass) in online learning and explore factors influencing student satisfaction in this context. 
           Given Qatar's emphasis on education and the shift to online learning during the COVID-19 pandemic by institutions like Qatar University, this research is crucial. 
           It addresses vital questions, enhancing Qatar's educational system to fulfill societal needs and student aspirations.
-    content:
       - layout: Top-middle
         title: COVID-19 outbreak prediction and assessment of prevention policies: a data science approach
         description: 
