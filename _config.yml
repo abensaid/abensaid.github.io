@@ -125,9 +125,21 @@ content:
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           [Multispectral imaging and its use for face recognition: sensory data enhancement](documents/these_A_BEN_SAID_Ahmed_2015.pdf)
-        #description: Thesis advisor: S. FouFou (University of Burgundy)
-
+          Thesis advisor: Professor Sebti Foufou
+      - layout: left
+        title: Higher School of Communications of Tunis
+        caption: 2009 - 2012
+        sub_title: Telecommuncation Engineer
+        layout: text
+        content:
+          1-  Signal and Image Processing
           
+          2-  Programming, Databases and Software Development
+          
+          3- Networking and Radio Mobile Networks
+          
+          4- Numerical Analysis, Operational Research and Probability
+               
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
