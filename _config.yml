@@ -131,8 +131,7 @@ content:
         title: Higher School of Communications of Tunis
         caption: 2009 - 2012
         sub_title: Telecommuncation Engineer
-        layout: text
-        content |:
+        description: |
           1-  Signal and Image Processing
           
           2-  Programming, Databases and Software Development
