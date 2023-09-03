@@ -49,10 +49,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/abensaid.png
 about_content: | # this will include new lines to allow paragraphs
-As a computer scientist specializing in artificial intelligence and data analytics, I possess deep knowledge in statistical methods and machine learning. 
-I excel at rigorous research, deriving insights for decision-making, and formulating novel theories. 
-With a proven record in academic publishing, presenting at conferences, and securing research funds, I am adept at multiple programming languages and handling complex datasets. 
-Having taught at the undergraduate level, I seek a dynamic academic role where I can further apply and expand my expertise.
+  As a computer scientist specializing in artificial intelligence and data analytics, I possess deep knowledge in statistical methods and machine learning. 
+  I excel at rigorous research, deriving insights for decision-making, and formulating novel theories. 
+  With a proven record in academic publishing, presenting at conferences, and securing research funds, I am adept at multiple programming languages and handling complex datasets. 
+  Having taught at the undergraduate level, I seek a dynamic academic role where I can further apply and expand my expertise.
 content:
   - title: Research Projects # Title for the section
     layout: list # Type of content section (list/text)
