@@ -149,6 +149,32 @@ content:
           3- Networking and Radio Mobile Networks
           
           4- Numerical Analysis, Operational Research and Probability
+  - title: Research Projects # Title for the section
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      **•** Proficient in big data analytics, machine and deep learning with several applications including
+            computer vision, time series analysis ,medical images, urban and service computing and
+            education.
+      
+      **•** Proficient in computer Programming fundamentals and advanced concepts
+
+      **•** Experienced in image processing theories and practice
+
+      **•** Programming: Python, C++, Java
+
+      **•** Deep Learning: Tensorflow/Keras, Pytorch
+
+      **•** Big Data: Dask, Spark
+
+      **•** Large Language Models Stack: Llama-Index, LangChain, OpenAI
+
+      **•** Data Science and Analytics Stack: SQL, Excel, Python, Numpy, Pandas, Scikit-Learn, OpenCV
+      
+      **•** Data Visualization and Dashboard: Matplotlib, Plotly, Seaborn, Power BI, Tableau
+
+      **•** MATLAB
+      
+      **•** Native Arabic, fluent in English and French
 
   - title: Research Projects # Title for the section
     layout: list # Type of content section (list/text)
