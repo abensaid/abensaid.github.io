@@ -54,6 +54,24 @@ about_content: | # this will include new lines to allow paragraphs
   With a proven record in academic publishing, presenting at conferences, and securing research funds, I am adept at multiple programming languages and handling complex datasets. 
   Having taught at the undergraduate level, I seek a dynamic academic role where I can further apply and expand my expertise.
 content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Qatar University
+        link: http://www.qu.edu.qa/
+        link_text: qu.edu.qa
+        sub_title: Senior Data Analyst
+        caption: June 2020 - Present
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            At Qatar University, I utilized **data science** and **machine learning** to enhance **student experiences**. 
+            I predicted **student performance** using logs from the BlackBoard System, involving **time series analysis and classification**. 
+            I assessed the Early Admission Process through **A/B testing** and analyzed the complexity of university curricula using **web scraping** and **graph analytics**. 
+            Another project investigated student academic performance determinants using **Explainable AI**. 
+            Furthermore, I reported on the **university's KPIs** by analyzing data from Oracle DB and IBM Cognos. 
+            Finally, using **Natural Language Processing**, I extracted insights from student interviews to understand factors influencing **graduation**, **progression** and **retention rates**.
   - title: Research Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
