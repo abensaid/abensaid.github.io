@@ -178,8 +178,8 @@ content:
   - title: Achievement # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **•** Student Affairs Employee Excellence Award 2023
-  - title: Certificates # Title for the section
+      **•** **Student Affairs Employee Excellence Award 2023**
+  - title: Research Grants# Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
       **•** **QNRF–Rapid Response Call To Address COVID-19** : COVID-19 outbreak prediction
@@ -191,14 +191,10 @@ content:
       **•** **QNRF–Rapid Response Call To Address COVID-19 2nd Cycle**:  Speculating Student
               Performance and Satisfaction in Online Learning During a Pandemic, $50,000 USD, 2021,
 
-              
-            
-
-  
-  - title: Research Grants # Title for the section
+  - title:  Certificates# Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **•** Project Management Professional (PMP), number 3021865 (June 2021)
+      **•** **Project Management Professional (PMP)**, number 3021865 (June 2021)
 
   
   - title: Research Projects # Title for the section
