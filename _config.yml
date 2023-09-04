@@ -320,10 +320,7 @@ content:
       **36**: A. Ben Said, R. Hadjidj and S. Foufou, Gravitational weighted fuzzy c-means with application on multispectral image segmentation, 4th International Conference on Image Processing Theory, Tools and Applications (IPTA), pp 1-5, 2014.
 
       **37**:  A. Ben Said, S. Foufou and M. Abidi, A fcm and surf based algorithm for segmentation of multispectral face images, International Conference on ignal-Image Technology Internet-Based Systems (SITIS), pp 65-70, 2013
-      
-      # Footer
-#footer_show_references: false
-# references_title: References on request (Override references text)
+
 
 # Build settings
 remote_theme: sproogen/resume-theme
