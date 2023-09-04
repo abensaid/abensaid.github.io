@@ -139,7 +139,37 @@ content:
           • Conducting **assignments**, **exams** and **projects**.
           
           • Learning Management System: **Blackboard**
-        
+      - layout: left
+        title: Stile
+        link: http://www.stile.ai/
+        link_text: stile.ai
+        sub_title: Part-Time Consultant
+        caption: 2021-2022 
+        description: | 
+          •  AI-powered fashion platform
+          
+          •  Computer vision approach for clothes detection
+
+          • Recommendation system
+           
+          • Virtual try-on
+          
+          • Mentoring master and undergraduate interns
+
+      - layout: left
+        title: Moome
+        link: http://www.qu.edu.qa/
+        link_text: qu.edu.qa
+        sub_title: Part-Time Consultant
+        caption: 2020
+        description: | 
+
+           • AI-consulting for Lifeye: MooMe platform
+
+           • Cow rumination detection based on accelerometer data
+
+           •  Computer vision approach for cow rumination detection
+    
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
