@@ -127,19 +127,6 @@ content:
         description: |
           In my **Research and Development** role, I've published in notable **conferences** and **journals**, sought **research grants**, and collaborated with both local entities like Muwasalat and Kahramaa, and  institutions including **Hamad Bin Khalifa University, **Qatar Computing Research Institute**, **Carnegie Mellon University-Qatar**, and universities including **University of Tennessee**, **University of British Columbia** and **University of Sydney**. 
           Additionally, I've **mentored** undergraduate and master's students, guiding their academic journeys.
-      - layout: left
-        title: Qatar University
-        link: http://www.qu.edu.qa/
-        link_text: qu.edu.qa
-        sub_title: Part-Time Lecturer
-        caption: Spring 2020, Spring 2022  
-        description: |  
-          • Programming Concepts: Conducting **labs** to assist students in getting familiar with **programming** in general and **C++** and **Python** in particular.
-          
-          • Conducting **assignments**, **exams** and **projects**.
-          
-          • Learning Management System: **Blackboard**
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
