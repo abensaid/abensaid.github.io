@@ -176,9 +176,10 @@ content:
       
       **•** Native Arabic, fluent in English and French
   - title: Achievement # Title for the section
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      -title: Student Affairs Employee Excellence Award 2023
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Student Affairs Employee Excellence Award 2023
 
   - title: Research Projects # Title for the section
     layout: list # Type of content section (list/text)
