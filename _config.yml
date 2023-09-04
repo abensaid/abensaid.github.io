@@ -149,7 +149,7 @@ content:
           3- Networking and Radio Mobile Networks
           
           4- Numerical Analysis, Operational Research and Probability
-  - title: Research Projects # Title for the section
+  - title: Skills # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
       **•** Proficient in big data analytics, machine and deep learning with several applications including
@@ -175,6 +175,10 @@ content:
       **•** MATLAB
       
       **•** Native Arabic, fluent in English and French
+  - title: Achievement # Title for the section
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      -title: Student Affairs Employee Excellence Award 2023
 
   - title: Research Projects # Title for the section
     layout: list # Type of content section (list/text)
